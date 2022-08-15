@@ -1,0 +1,193 @@
+2022-06-20 18:00:00.0137 Info Message Template Auto Format enabled
+2022-06-20 18:00:00.5757 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:00:00.5933 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:00:00.5933 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:00:00.6896 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:00:00.7073 Info Configuration initialized.
+2022-06-20 18:00:00.7480 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:00:35.1491 Info Message Template Auto Format enabled
+2022-06-20 18:00:35.3759 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:00:35.3948 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:00:35.3948 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:00:35.4575 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:00:35.4748 Info Configuration initialized.
+2022-06-20 18:00:35.4861 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:01:28.3768 Info Message Template Auto Format enabled
+2022-06-20 18:01:28.5539 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:01:28.5716 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:01:28.5716 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:01:28.6336 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:01:28.6529 Info Configuration initialized.
+2022-06-20 18:01:28.6630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:02:56.1106 Info Message Template Auto Format enabled
+2022-06-20 18:02:56.2962 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:02:56.3143 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:02:56.3143 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:02:56.3772 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:02:56.3943 Info Configuration initialized.
+2022-06-20 18:02:56.4045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:03:30.7565 Info Message Template Auto Format enabled
+2022-06-20 18:03:30.9831 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:03:31.0004 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:03:31.0004 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:03:31.0623 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:03:31.0785 Info Configuration initialized.
+2022-06-20 18:03:31.0988 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:03:48.3949 Info AppDomain Shutting down. LogFactory closing...
+2022-06-20 18:03:48.4687 Info LogFactory has been closed.
+2022-06-20 18:03:56.6762 Info Message Template Auto Format enabled
+2022-06-20 18:03:56.8696 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:03:56.8887 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:03:56.8887 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:03:56.9535 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:03:56.9690 Info Configuration initialized.
+2022-06-20 18:03:57.0029 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-20 18:04:24.5100 Info Message Template Auto Format enabled
+2022-06-20 18:04:24.6731 Info Adding target FileTarget(Name=logfile)
+2022-06-20 18:04:24.6913 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-20 18:04:24.6913 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-20 18:04:24.7611 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-06-20 18:04:24.7781 Info Configuration initialized.
+2022-06-20 18:04:24.7887 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-27 12:28:20.8178 Info Message Template Auto Format enabled
+2022-07-27 12:28:21.0378 Info Adding target FileTarget(Name=logfile)
+2022-07-27 12:28:21.0616 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-27 12:28:21.0616 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-27 12:28:21.1335 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-07-27 12:28:21.1522 Info Configuration initialized.
+2022-07-27 12:28:21.1649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-27 12:28:31.9814 Info Message Template Auto Format enabled
+2022-07-27 12:28:32.1692 Info Adding target FileTarget(Name=logfile)
+2022-07-27 12:28:32.1919 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-27 12:28:32.1919 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-27 12:28:32.2737 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-07-27 12:28:32.2965 Info Configuration initialized.
+2022-07-27 12:28:32.3132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-27 12:28:54.9154 Info AppDomain Shutting down. LogFactory closing...
+2022-07-27 12:28:54.9346 Info LogFactory has been closed.
+2022-07-27 12:29:15.0159 Info Message Template Auto Format enabled
+2022-07-27 12:29:15.2088 Info Adding target FileTarget(Name=logfile)
+2022-07-27 12:29:15.2312 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-27 12:29:15.2312 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-27 12:29:15.2886 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-07-27 12:29:15.3123 Info Configuration initialized.
+2022-07-27 12:29:15.3225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-27 12:29:42.9704 Info AppDomain Shutting down. LogFactory closing...
+2022-07-27 12:29:42.9899 Info LogFactory has been closed.
+2022-07-27 12:30:21.8771 Info Message Template Auto Format enabled
+2022-07-27 12:30:22.0546 Info Adding target FileTarget(Name=logfile)
+2022-07-27 12:30:22.0734 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-27 12:30:22.0734 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-27 12:30:22.1324 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-07-27 12:30:22.1549 Info Configuration initialized.
+2022-07-27 12:30:22.1662 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 05:21:37.1279 Info Message Template Auto Format enabled
+2022-08-01 05:21:37.3265 Info Adding target FileTarget(Name=logfile)
+2022-08-01 05:21:37.3471 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 05:21:37.3471 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 05:21:37.4215 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 05:21:37.4421 Info Configuration initialized.
+2022-08-01 05:21:37.4560 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 05:21:53.9226 Info AppDomain Shutting down. LogFactory closing...
+2022-08-01 05:21:53.9546 Info LogFactory has been closed.
+2022-08-01 05:22:42.1206 Info Message Template Auto Format enabled
+2022-08-01 05:22:42.3051 Info Adding target FileTarget(Name=logfile)
+2022-08-01 05:22:42.3262 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 05:22:42.3262 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 05:22:42.3880 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 05:22:42.4063 Info Configuration initialized.
+2022-08-01 05:22:42.4063 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 05:23:41.6458 Info AppDomain Shutting down. LogFactory closing...
+2022-08-01 05:23:41.6710 Info LogFactory has been closed.
+2022-08-01 09:31:35.3877 Info Message Template Auto Format enabled
+2022-08-01 09:31:35.5936 Info Adding target FileTarget(Name=logfile)
+2022-08-01 09:31:35.6170 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 09:31:35.6170 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 09:31:35.6851 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 09:31:35.7061 Info Configuration initialized.
+2022-08-01 09:31:35.7214 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 09:31:52.2154 Info AppDomain Shutting down. LogFactory closing...
+2022-08-01 09:31:52.2347 Info LogFactory has been closed.
+2022-08-01 11:36:22.4242 Info Message Template Auto Format enabled
+2022-08-01 11:36:22.6238 Info Adding target FileTarget(Name=logfile)
+2022-08-01 11:36:22.6428 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 11:36:22.6428 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 11:36:22.7116 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 11:36:22.7318 Info Configuration initialized.
+2022-08-01 11:36:22.7467 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 11:42:52.6452 Info Message Template Auto Format enabled
+2022-08-01 11:42:52.8820 Info Adding target FileTarget(Name=logfile)
+2022-08-01 11:42:52.9069 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 11:42:52.9069 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 11:42:52.9821 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 11:42:53.0041 Info Configuration initialized.
+2022-08-01 11:42:53.0165 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 17:13:03.6678 Info Message Template Auto Format enabled
+2022-08-01 17:13:03.8871 Info Adding target FileTarget(Name=logfile)
+2022-08-01 17:13:03.9117 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-01 17:13:03.9117 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-01 17:13:03.9986 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-01 17:13:04.0212 Info Configuration initialized.
+2022-08-01 17:13:04.0357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-01 17:13:10.4604 Info AppDomain Shutting down. LogFactory closing...
+2022-08-01 17:13:10.4797 Info LogFactory has been closed.
+2022-08-02 11:31:20.3643 Info Message Template Auto Format enabled
+2022-08-02 11:31:20.5720 Info Adding target FileTarget(Name=logfile)
+2022-08-02 11:31:20.5914 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 11:31:20.5914 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 11:31:20.6686 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 11:31:20.6972 Info Configuration initialized.
+2022-08-02 11:31:20.7126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 11:31:44.0823 Info Message Template Auto Format enabled
+2022-08-02 11:31:44.2477 Info Adding target FileTarget(Name=logfile)
+2022-08-02 11:31:44.2704 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 11:31:44.2704 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 11:31:44.3280 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 11:31:44.3468 Info Configuration initialized.
+2022-08-02 11:31:44.3578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 11:40:45.1755 Info Message Template Auto Format enabled
+2022-08-02 11:40:45.3773 Info Adding target FileTarget(Name=logfile)
+2022-08-02 11:40:45.3999 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 11:40:45.3999 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 11:40:45.4739 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 11:40:45.4939 Info Configuration initialized.
+2022-08-02 11:40:45.5055 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 11:53:40.3817 Info Message Template Auto Format enabled
+2022-08-02 11:53:40.5406 Info Adding target FileTarget(Name=logfile)
+2022-08-02 11:53:40.5627 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 11:53:40.5627 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 11:53:40.6572 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 11:53:40.6772 Info Configuration initialized.
+2022-08-02 11:53:40.7045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 11:55:17.3682 Info Message Template Auto Format enabled
+2022-08-02 11:55:17.5278 Info Adding target FileTarget(Name=logfile)
+2022-08-02 11:55:17.5504 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 11:55:17.5504 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 11:55:17.6109 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 11:55:17.6283 Info Configuration initialized.
+2022-08-02 11:55:17.6441 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 12:00:03.0767 Info Message Template Auto Format enabled
+2022-08-02 12:00:03.2875 Info Adding target FileTarget(Name=logfile)
+2022-08-02 12:00:03.3094 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 12:00:03.3100 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 12:00:03.3811 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 12:00:03.3997 Info Configuration initialized.
+2022-08-02 12:00:03.4105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 12:03:03.1409 Info Message Template Auto Format enabled
+2022-08-02 12:03:03.3842 Info Adding target FileTarget(Name=logfile)
+2022-08-02 12:03:03.4071 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 12:03:03.4071 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 12:03:03.4846 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 12:03:03.5040 Info Configuration initialized.
+2022-08-02 12:03:03.5154 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 12:03:25.4319 Info AppDomain Shutting down. LogFactory closing...
+2022-08-02 12:03:25.4513 Info LogFactory has been closed.
+2022-08-02 12:13:44.4152 Info Message Template Auto Format enabled
+2022-08-02 12:13:44.6083 Info Adding target FileTarget(Name=logfile)
+2022-08-02 12:13:44.6271 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-08-02 12:13:44.6271 Info Adding target ConsoleTarget(Name=logconsole)
+2022-08-02 12:13:44.7005 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Release\netcoreapp2.1\NLog.config
+2022-08-02 12:13:44.7197 Info Configuration initialized.
+2022-08-02 12:13:44.7333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-08-02 12:13:53.7704 Info AppDomain Shutting down. LogFactory closing...
+2022-08-02 12:13:53.7936 Info LogFactory has been closed.
