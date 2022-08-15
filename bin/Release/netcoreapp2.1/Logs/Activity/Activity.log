@@ -1,0 +1,316 @@
+2022-06-20 18:00:01.1246|Info|Message: Initialized Logger Service.|Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:03.1423|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:03.5119|Info|Message: Send RabbitMQ Channel Created.|Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:03.6858|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:03.7525|Error|Message: Unable To Create RabbitMQ Channel : System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.Text.UTF8Encoding.GetByteCount(String chars)
+   at RabbitMQ.Client.Framing.Impl.QueueDeclare.GetRequiredBufferSize()
+   at RabbitMQ.Client.Impl.OutgoingCommand.GetMaxSize(Int32 maxPayloadBytes)
+   at RabbitMQ.Client.Impl.OutgoingCommand.Transmit(UInt16 channelNumber, Connection connection)
+   at RabbitMQ.Client.Impl.SessionBase.Transmit(OutgoingCommand& cmd)
+   at RabbitMQ.Client.Impl.ModelBase.ModelSend(MethodBase method, ContentHeaderBase header, ReadOnlyMemory`1 body)
+   at RabbitMQ.Client.Framing.Impl.Model._Private_QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, Boolean nowait, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 132|Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:03.9750|Info|Message: Start listening to |Process Id: 9160|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:35.7350|Info|Message: Initialized Logger Service.|Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:36.1320|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:36.1563|Info|Message: Send RabbitMQ Channel Created.|Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:36.3595|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:36.4159|Error|Message: Unable To Create RabbitMQ Channel : System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.Text.UTF8Encoding.GetByteCount(String chars)
+   at RabbitMQ.Client.Framing.Impl.QueueDeclare.GetRequiredBufferSize()
+   at RabbitMQ.Client.Impl.OutgoingCommand.GetMaxSize(Int32 maxPayloadBytes)
+   at RabbitMQ.Client.Impl.OutgoingCommand.Transmit(UInt16 channelNumber, Connection connection)
+   at RabbitMQ.Client.Impl.SessionBase.Transmit(OutgoingCommand& cmd)
+   at RabbitMQ.Client.Impl.ModelBase.ModelSend(MethodBase method, ContentHeaderBase header, ReadOnlyMemory`1 body)
+   at RabbitMQ.Client.Framing.Impl.Model._Private_QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, Boolean nowait, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 132|Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:00:36.4553|Info|Message: Start listening to |Process Id: 5448|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:28.8315|Info|Message: Initialized Logger Service.|Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:29.7410|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:29.7517|Info|Message: Send RabbitMQ Channel Created.|Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:29.9249|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:29.9909|Error|Message: Unable To Create RabbitMQ Channel : System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.Text.UTF8Encoding.GetByteCount(String chars)
+   at RabbitMQ.Client.Framing.Impl.QueueDeclare.GetRequiredBufferSize()
+   at RabbitMQ.Client.Impl.OutgoingCommand.GetMaxSize(Int32 maxPayloadBytes)
+   at RabbitMQ.Client.Impl.OutgoingCommand.Transmit(UInt16 channelNumber, Connection connection)
+   at RabbitMQ.Client.Impl.SessionBase.Transmit(OutgoingCommand& cmd)
+   at RabbitMQ.Client.Impl.ModelBase.ModelSend(MethodBase method, ContentHeaderBase header, ReadOnlyMemory`1 body)
+   at RabbitMQ.Client.Framing.Impl.Model._Private_QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, Boolean nowait, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 132|Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:01:30.0316|Info|Message: Start listening to |Process Id: 17012|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:02:56.5664|Info|Message: Initialized Logger Service.|Process Id: 25508|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:02:56.9698|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 25508|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:02:56.9851|Info|Message: Send RabbitMQ Channel Created.|Process Id: 25508|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:02:57.1670|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 25508|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:02:57.2346|Error|Message: Unable To Create RabbitMQ Channel : System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.Text.UTF8Encoding.GetByteCount(String chars)
+   at RabbitMQ.Client.Framing.Impl.QueueDeclare.GetRequiredBufferSize()
+   at RabbitMQ.Client.Impl.OutgoingCommand.GetMaxSize(Int32 maxPayloadBytes)
+   at RabbitMQ.Client.Impl.OutgoingCommand.Transmit(UInt16 channelNumber, Connection connection)
+   at RabbitMQ.Client.Impl.SessionBase.Transmit(OutgoingCommand& cmd)
+   at RabbitMQ.Client.Impl.ModelBase.ModelSend(MethodBase method, ContentHeaderBase header, ReadOnlyMemory`1 body)
+   at RabbitMQ.Client.Framing.Impl.Model._Private_QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, Boolean nowait, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 132|Process Id: 25508|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:31.2474|Info|Message: Initialized Logger Service.|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:31.6474|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:31.6616|Info|Message: Send RabbitMQ Channel Created.|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:31.8657|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:31.9683|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at RabbitMQ.Client.Impl.RecordedBinding.GetHashCode()
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.RecordBinding(RecordedBinding rb)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueBind(String queue, String exchange, String routingKey, IDictionary`2 arguments)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 132|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:34.9584|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 1700|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:57.1623|Info|Message: Initialized Logger Service.|Process Id: 22892|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:57.5251|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 22892|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:57.5357|Info|Message: Send RabbitMQ Channel Created.|Process Id: 22892|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:03:57.6996|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 22892|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:24.9443|Info|Message: Initialized Logger Service.|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:25.2759|Info|Message: Connected to Send RabbitMQ Host : localhost|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:25.3013|Info|Message: Send RabbitMQ Channel Created.|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:25.4758|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:29.1865|Info|Message: RabbitMQ Channel Created.|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-06-20 18:04:29.1865|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 11020|Machine Name: DTJHBW1053V4TR2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:21.3094|Info|Message: Initialized Logger Service.|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:22.2241|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:22.2581|Info|Message: Send RabbitMQ Channel Created.|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:22.5055|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:22.6305|Info|Message: RabbitMQ Channel Created.|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:22.6305|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 18136|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:32.4500|Info|Message: Initialized Logger Service.|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:33.2379|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:33.2677|Info|Message: Send RabbitMQ Channel Created.|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:33.4316|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:33.5210|Info|Message: RabbitMQ Channel Created.|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:28:33.5210|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 20668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:15.4507|Info|Message: Initialized Logger Service.|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:16.2198|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:16.2481|Info|Message: Send RabbitMQ Channel Created.|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:16.4150|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:16.4924|Info|Message: RabbitMQ Channel Created.|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:29:16.4924|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 28428|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:22.3059|Info|Message: Initialized Logger Service.|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:23.0654|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:23.0932|Info|Message: Send RabbitMQ Channel Created.|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:23.2579|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:23.3478|Info|Message: RabbitMQ Channel Created.|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-07-27 12:30:23.3478|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 14676|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:37.6263|Info|Message: Initialized Logger Service.|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:38.5055|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:38.5361|Info|Message: Send RabbitMQ Channel Created.|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:38.7011|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:38.8125|Info|Message: RabbitMQ Channel Created.|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:21:38.8125|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 17380|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:42.5662|Info|Message: Initialized Logger Service.|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:43.4264|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:43.4549|Info|Message: Send RabbitMQ Channel Created.|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:43.6308|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:43.7118|Info|Message: RabbitMQ Channel Created.|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 05:22:43.7118|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 1924|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:35.8819|Info|Message: Initialized Logger Service.|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:37.0329|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:37.2408|Info|Message: Send RabbitMQ Channel Created.|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:37.5708|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:37.8530|Info|Message: RabbitMQ Channel Created.|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 09:31:37.8530|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 1972|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:22.8981|Info|Message: Initialized Logger Service.|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:24.2464|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:24.3054|Info|Message: Send RabbitMQ Channel Created.|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:24.4936|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:24.5870|Info|Message: RabbitMQ Channel Created.|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:36:24.5878|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 8668|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:53.1960|Info|Message: Initialized Logger Service.|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:54.0218|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:54.0622|Info|Message: Send RabbitMQ Channel Created.|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:54.2419|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:54.3348|Info|Message: RabbitMQ Channel Created.|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 11:42:54.3348|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 20336|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:04.2118|Info|Message: Initialized Logger Service.|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:05.1128|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:05.1500|Info|Message: Send RabbitMQ Channel Created.|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:05.3788|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:05.4923|Info|Message: RabbitMQ Channel Created.|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-01 17:13:05.4923|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 16856|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:20.8656|Info|Message: Initialized Logger Service.|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:22.2989|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:22.3335|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:22.6503|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:22.6721|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:22.6721|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 21368|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:44.4992|Info|Message: Initialized Logger Service.|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:45.6728|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:45.7106|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:46.0443|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:46.0638|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:31:46.0638|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 21000|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:45.6783|Info|Message: Initialized Logger Service.|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:47.5307|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:47.5695|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:47.9897|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:48.0128|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:40:48.0128|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 20436|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:40.8848|Info|Message: Initialized Logger Service.|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:42.1098|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:42.1414|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:42.5454|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:42.5655|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:53:42.5655|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 18208|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:17.7736|Info|Message: Initialized Logger Service.|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:18.8242|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:18.8561|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:19.2817|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:19.3013|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 11:55:19.3013|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 21264|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:03.5567|Info|Message: Initialized Logger Service.|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:05.2920|Error|Message: Unable To Create Send RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 57|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:05.3293|Error|Message: Unable To Create Send RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitSendRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 148|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:06.0754|Error|Message: Unable To Create Receive RabbitMQ Connection, Kindly Verify and Restart The Service : RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=541, text='INTERNAL_ERROR - access to vhost '/' refused for user 'pfpl_price': vhost '/' is down', classId=10, methodId=40
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQConnection() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 31|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:06.0955|Error|Message: Unable To Create RabbitMQ Channel : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FutChartTransporter_DotCore.Managers.RabbitMQ.RabbitMQManager.InitReceiveRabbitMQChannel() in C:\Users\nornabila\Downloads\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\Managers\RabbitMQ\RabbitMQManager.cs:line 104|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:00:06.0955|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 7376|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:03.6599|Info|Message: Initialized Logger Service.|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:04.5091|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:04.5461|Info|Message: Send RabbitMQ Channel Created.|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:04.7090|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:04.7885|Info|Message: RabbitMQ Channel Created.|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:03:04.7885|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 21660|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:44.8787|Info|Message: Initialized Logger Service.|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:45.7717|Info|Message: Connected to Send RabbitMQ Host : 10.30.5.50|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:45.8025|Info|Message: Send RabbitMQ Channel Created.|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:45.9726|Info|Message: Connected to Receive RabbitMQ Host : 10.30.5.50|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:46.0539|Info|Message: RabbitMQ Channel Created.|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
+2022-08-02 12:13:46.0539|Info|Message: Start listening to PATS.PRECHARTFEED|Process Id: 20604|Machine Name: DTJHBW108HGQ7N2|App Domain: 0001:FutChartTransporter_DotCore
