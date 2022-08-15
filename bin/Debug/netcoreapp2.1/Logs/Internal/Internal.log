@@ -1,0 +1,557 @@
+2022-06-10 11:03:03.4488 Info Message Template Auto Format enabled
+2022-06-10 11:03:03.6582 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:03:03.6763 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:03:03.6763 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:03:03.7609 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:03:03.7781 Info Configuration initialized.
+2022-06-10 11:03:03.7894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 11:03:53.6813 Info Message Template Auto Format enabled
+2022-06-10 11:03:53.8518 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:03:53.8706 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:03:53.8706 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:03:53.9290 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:03:53.9467 Info Configuration initialized.
+2022-06-10 11:03:53.9614 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 11:04:40.9025 Info Message Template Auto Format enabled
+2022-06-10 11:04:41.0647 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:04:41.0821 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:04:41.0821 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:04:41.1590 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:04:41.1760 Info Configuration initialized.
+2022-06-10 11:04:41.1982 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 11:05:17.6537 Info Message Template Auto Format enabled
+2022-06-10 11:05:17.8494 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:05:17.8679 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:05:17.8679 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:05:17.9254 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:05:17.9413 Info Configuration initialized.
+2022-06-10 11:05:17.9506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 11:06:42.5843 Info Message Template Auto Format enabled
+2022-06-10 11:06:42.7760 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:06:42.7951 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:06:42.7951 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:06:42.8709 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:06:42.8877 Info Configuration initialized.
+2022-06-10 11:06:42.9028 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 11:07:43.9065 Info Message Template Auto Format enabled
+2022-06-10 11:07:44.0791 Info Adding target FileTarget(Name=logfile)
+2022-06-10 11:07:44.0959 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 11:07:44.0959 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 11:07:44.1598 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 11:07:44.1783 Info Configuration initialized.
+2022-06-10 11:07:44.1918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 12:39:43.3067 Info Message Template Auto Format enabled
+2022-06-10 12:39:43.5941 Info Adding target FileTarget(Name=logfile)
+2022-06-10 12:39:43.6112 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 12:39:43.6112 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 12:39:43.6866 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 12:39:43.7034 Info Configuration initialized.
+2022-06-10 12:39:43.7274 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 12:56:01.5197 Info Message Template Auto Format enabled
+2022-06-10 12:56:01.7165 Info Adding target FileTarget(Name=logfile)
+2022-06-10 12:56:01.7338 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 12:56:01.7338 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 12:56:01.8005 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 12:56:01.8192 Info Configuration initialized.
+2022-06-10 12:56:01.8324 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 13:00:28.8162 Info Message Template Auto Format enabled
+2022-06-10 13:00:29.0348 Info Adding target FileTarget(Name=logfile)
+2022-06-10 13:00:29.0523 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 13:00:29.0523 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 13:00:29.1134 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 13:00:29.1301 Info Configuration initialized.
+2022-06-10 13:00:29.1488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:00:44.2948 Info Message Template Auto Format enabled
+2022-06-10 14:00:44.6576 Info Adding target FileTarget(Name=logfile)
+2022-06-10 14:00:44.6821 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 14:00:44.6821 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 14:00:44.7571 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 14:00:44.7787 Info Configuration initialized.
+2022-06-10 14:00:44.7968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:01:08.9753 Info Message Template Auto Format enabled
+2022-06-10 14:01:09.1512 Info Adding target FileTarget(Name=logfile)
+2022-06-10 14:01:09.1689 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 14:01:09.1689 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 14:01:09.2369 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 14:01:09.2538 Info Configuration initialized.
+2022-06-10 14:01:09.2643 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:07:38.7587 Info Message Template Auto Format enabled
+2022-06-10 14:07:38.9277 Info Adding target FileTarget(Name=logfile)
+2022-06-10 14:07:38.9552 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 14:07:38.9552 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 14:07:39.0416 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 14:07:39.0616 Info Configuration initialized.
+2022-06-10 14:07:39.0726 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:17:45.1065 Info Message Template Auto Format enabled
+2022-06-10 14:17:45.3651 Info Adding target FileTarget(Name=logfile)
+2022-06-10 14:17:45.3853 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 14:17:45.3853 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 14:17:45.4875 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 14:17:45.5076 Info Configuration initialized.
+2022-06-10 14:17:45.5183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:25:12.5156 Info Message Template Auto Format enabled
+2022-06-10 14:25:12.6797 Info Adding target FileTarget(Name=logfile)
+2022-06-10 14:25:12.6960 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 14:25:12.6960 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 14:25:12.7594 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 14:25:12.7752 Info Configuration initialized.
+2022-06-10 14:25:12.7871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 14:28:06.1870 Info AppDomain Shutting down. LogFactory closing...
+2022-06-10 14:28:06.2667 Info LogFactory has been closed.
+2022-06-10 15:34:10.2123 Info Message Template Auto Format enabled
+2022-06-10 15:34:10.4489 Info Adding target FileTarget(Name=logfile)
+2022-06-10 15:34:10.4669 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 15:34:10.4669 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 15:34:10.5325 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 15:34:10.5476 Info Configuration initialized.
+2022-06-10 15:34:10.5585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 15:41:02.8328 Info Message Template Auto Format enabled
+2022-06-10 15:41:03.0534 Info Adding target FileTarget(Name=logfile)
+2022-06-10 15:41:03.0725 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 15:41:03.0725 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 15:41:03.1630 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 15:41:03.2198 Info Configuration initialized.
+2022-06-10 15:41:03.2405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 15:45:55.9149 Info Message Template Auto Format enabled
+2022-06-10 15:45:56.1091 Info Adding target FileTarget(Name=logfile)
+2022-06-10 15:45:56.1255 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 15:45:56.1255 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 15:45:56.1823 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 15:45:56.1991 Info Configuration initialized.
+2022-06-10 15:45:56.1991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 15:57:02.9701 Info Message Template Auto Format enabled
+2022-06-10 15:57:03.1803 Info Adding target FileTarget(Name=logfile)
+2022-06-10 15:57:03.2015 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 15:57:03.2015 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 15:57:03.2766 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 15:57:03.2936 Info Configuration initialized.
+2022-06-10 15:57:03.3074 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:19:27.0557 Info Message Template Auto Format enabled
+2022-06-10 16:19:27.2281 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:19:27.2476 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:19:27.2476 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:19:27.3143 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:19:27.3310 Info Configuration initialized.
+2022-06-10 16:19:27.3427 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:21:23.1800 Info Message Template Auto Format enabled
+2022-06-10 16:21:23.4266 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:21:23.4469 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:21:23.4469 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:21:23.5217 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:21:23.5383 Info Configuration initialized.
+2022-06-10 16:21:23.5383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:21:31.9062 Info AppDomain Shutting down. LogFactory closing...
+2022-06-10 16:21:33.4352 Warn Flush completed with errors Exception: System.TimeoutException: Timeout when flushing all targets, after waiting 1.5 seconds.
+2022-06-10 16:21:33.4352 Warn Target flush timeout. One or more targets did not complete flush operation, skipping target close.
+2022-06-10 16:21:33.4352 Info LogFactory has been closed.
+2022-06-10 16:22:53.9722 Info Message Template Auto Format enabled
+2022-06-10 16:22:54.1567 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:22:54.1746 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:22:54.1753 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:22:54.2345 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:22:54.2504 Info Configuration initialized.
+2022-06-10 16:22:54.2603 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:25:09.9450 Info Message Template Auto Format enabled
+2022-06-10 16:25:10.2252 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:25:10.2450 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:25:10.2450 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:25:10.3093 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:25:10.3336 Info Configuration initialized.
+2022-06-10 16:25:10.3435 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:26:19.9336 Info Message Template Auto Format enabled
+2022-06-10 16:26:20.1274 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:26:20.1455 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:26:20.1455 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:26:20.2124 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:26:20.2284 Info Configuration initialized.
+2022-06-10 16:26:20.2284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:27:16.5284 Info Message Template Auto Format enabled
+2022-06-10 16:27:16.7234 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:27:16.7451 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:27:16.7451 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:27:16.8249 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:27:16.8421 Info Configuration initialized.
+2022-06-10 16:27:16.8507 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:29:19.0406 Info Message Template Auto Format enabled
+2022-06-10 16:29:19.2266 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:29:19.2455 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:29:19.2455 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:29:19.3084 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:29:19.3253 Info Configuration initialized.
+2022-06-10 16:29:19.3384 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:31:40.2549 Info Message Template Auto Format enabled
+2022-06-10 16:31:40.4261 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:31:40.4460 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:31:40.4468 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:31:40.5274 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:31:40.5466 Info Configuration initialized.
+2022-06-10 16:31:40.5561 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:36:57.3662 Info Message Template Auto Format enabled
+2022-06-10 16:36:57.5236 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:36:57.5395 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:36:57.5395 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:36:57.5972 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:36:57.6148 Info Configuration initialized.
+2022-06-10 16:36:57.6258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:38:20.2128 Info Message Template Auto Format enabled
+2022-06-10 16:38:20.4054 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:38:20.4220 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:38:20.4220 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:38:20.4798 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:38:20.4798 Info Configuration initialized.
+2022-06-10 16:38:20.5166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:38:36.6941 Info AppDomain Shutting down. LogFactory closing...
+2022-06-10 16:38:38.2143 Warn Flush completed with errors Exception: System.TimeoutException: Timeout when flushing all targets, after waiting 1.5 seconds.
+2022-06-10 16:38:38.2143 Warn Target flush timeout. One or more targets did not complete flush operation, skipping target close.
+2022-06-10 16:38:38.2143 Info LogFactory has been closed.
+2022-06-10 16:38:51.9970 Info Message Template Auto Format enabled
+2022-06-10 16:38:52.2139 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:38:52.2316 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:38:52.2316 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:38:52.2928 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:38:52.3088 Info Configuration initialized.
+2022-06-10 16:38:52.3088 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:38:55.2129 Info AppDomain Shutting down. LogFactory closing...
+2022-06-10 16:38:55.2365 Info LogFactory has been closed.
+2022-06-10 16:39:49.8035 Info Message Template Auto Format enabled
+2022-06-10 16:39:49.9786 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:39:49.9967 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:39:49.9967 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:39:50.0512 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:39:50.0660 Info Configuration initialized.
+2022-06-10 16:39:50.0747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:47:21.3669 Info Message Template Auto Format enabled
+2022-06-10 16:47:21.5576 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:47:21.5765 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:47:21.5765 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:47:21.6351 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:47:21.6511 Info Configuration initialized.
+2022-06-10 16:47:21.6511 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:54:39.1388 Info Message Template Auto Format enabled
+2022-06-10 16:54:39.3098 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:54:39.3265 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:54:39.3265 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:54:39.3836 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:54:39.4008 Info Configuration initialized.
+2022-06-10 16:54:39.4105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:58:12.1496 Info Message Template Auto Format enabled
+2022-06-10 16:58:12.3404 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:58:12.3564 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:58:12.3564 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:58:12.4172 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:58:12.4354 Info Configuration initialized.
+2022-06-10 16:58:12.4453 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 16:58:42.6243 Info Message Template Auto Format enabled
+2022-06-10 16:58:42.8115 Info Adding target FileTarget(Name=logfile)
+2022-06-10 16:58:42.8287 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 16:58:42.8287 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 16:58:42.8888 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 16:58:42.9043 Info Configuration initialized.
+2022-06-10 16:58:42.9158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 17:01:51.6932 Info AppDomain Shutting down. LogFactory closing...
+2022-06-10 17:01:51.7185 Info LogFactory has been closed.
+2022-06-10 17:06:08.2599 Info Message Template Auto Format enabled
+2022-06-10 17:06:08.4165 Info Adding target FileTarget(Name=logfile)
+2022-06-10 17:06:08.4350 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 17:06:08.4350 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 17:06:08.4998 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 17:06:08.5150 Info Configuration initialized.
+2022-06-10 17:06:08.5268 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-10 17:09:11.4986 Info Message Template Auto Format enabled
+2022-06-10 17:09:11.6794 Info Adding target FileTarget(Name=logfile)
+2022-06-10 17:09:11.6961 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-10 17:09:11.6961 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-10 17:09:11.7591 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-10 17:09:11.7763 Info Configuration initialized.
+2022-06-10 17:09:11.7865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:24:10.4925 Info Message Template Auto Format enabled
+2022-06-13 16:24:10.9441 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:24:10.9625 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:24:10.9625 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:24:11.0430 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:24:11.0586 Info Configuration initialized.
+2022-06-13 16:24:11.0684 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:27:46.0924 Info Message Template Auto Format enabled
+2022-06-13 16:27:46.2803 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:27:46.2821 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:27:46.2982 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:27:46.3616 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:27:46.3778 Info Configuration initialized.
+2022-06-13 16:27:46.3778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:42:13.6707 Info Message Template Auto Format enabled
+2022-06-13 16:42:13.8728 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:42:13.8889 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:42:13.8889 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:42:13.9569 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:42:13.9733 Info Configuration initialized.
+2022-06-13 16:42:13.9839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:43:24.6483 Info Message Template Auto Format enabled
+2022-06-13 16:43:24.8541 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:43:24.8710 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:43:24.8710 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:43:24.9278 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:43:24.9459 Info Configuration initialized.
+2022-06-13 16:43:24.9603 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:44:23.8813 Info Message Template Auto Format enabled
+2022-06-13 16:44:24.0510 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:44:24.0687 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:44:24.0687 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:44:24.1279 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:44:24.1448 Info Configuration initialized.
+2022-06-13 16:44:24.1587 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:51:27.9242 Info Message Template Auto Format enabled
+2022-06-13 16:51:28.1019 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:51:28.1214 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:51:28.1214 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:51:28.1923 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:51:28.2080 Info Configuration initialized.
+2022-06-13 16:51:28.2255 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:55:30.9351 Info Message Template Auto Format enabled
+2022-06-13 16:55:31.1207 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:55:31.1374 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:55:31.1374 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:55:31.2007 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:55:31.2179 Info Configuration initialized.
+2022-06-13 16:55:31.2278 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 16:58:48.7801 Info Message Template Auto Format enabled
+2022-06-13 16:58:48.9724 Info Adding target FileTarget(Name=logfile)
+2022-06-13 16:58:48.9892 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 16:58:48.9892 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 16:58:49.0498 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 16:58:49.0658 Info Configuration initialized.
+2022-06-13 16:58:49.0759 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 17:01:00.3559 Info Message Template Auto Format enabled
+2022-06-13 17:01:00.5875 Info Adding target FileTarget(Name=logfile)
+2022-06-13 17:01:00.6053 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 17:01:00.6053 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 17:01:00.6667 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 17:01:00.6840 Info Configuration initialized.
+2022-06-13 17:01:00.6974 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 17:04:29.5307 Info Message Template Auto Format enabled
+2022-06-13 17:04:29.7404 Info Adding target FileTarget(Name=logfile)
+2022-06-13 17:04:29.7572 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 17:04:29.7572 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 17:04:29.8130 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 17:04:29.8300 Info Configuration initialized.
+2022-06-13 17:04:29.8417 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-13 17:40:35.8960 Info Message Template Auto Format enabled
+2022-06-13 17:40:36.2410 Info Adding target FileTarget(Name=logfile)
+2022-06-13 17:40:36.2578 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-13 17:40:36.2578 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-13 17:40:36.3229 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-13 17:40:36.3404 Info Configuration initialized.
+2022-06-13 17:40:36.3526 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-14 01:56:12.4534 Info AppDomain Shutting down. LogFactory closing...
+2022-06-14 01:56:13.0784 Info LogFactory has been closed.
+2022-06-14 10:50:54.6824 Info Message Template Auto Format enabled
+2022-06-14 10:50:54.9502 Info Adding target FileTarget(Name=logfile)
+2022-06-14 10:50:54.9669 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-14 10:50:54.9669 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-14 10:50:55.0254 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-14 10:50:55.0405 Info Configuration initialized.
+2022-06-14 10:50:55.0405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-14 18:38:34.7437 Info Message Template Auto Format enabled
+2022-06-14 18:38:34.9233 Info Adding target FileTarget(Name=logfile)
+2022-06-14 18:38:34.9400 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-14 18:38:34.9400 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-14 18:38:34.9962 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-14 18:38:35.0131 Info Configuration initialized.
+2022-06-14 18:38:35.0417 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-15 11:12:48.1800 Info Message Template Auto Format enabled
+2022-06-15 11:12:48.4145 Info Adding target FileTarget(Name=logfile)
+2022-06-15 11:12:48.4310 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-15 11:12:48.4310 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-15 11:12:48.4924 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-15 11:12:48.5079 Info Configuration initialized.
+2022-06-15 11:12:48.6056 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-15 17:48:19.8830 Info Message Template Auto Format enabled
+2022-06-15 17:48:20.0769 Info Adding target FileTarget(Name=logfile)
+2022-06-15 17:48:20.0949 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-15 17:48:20.0949 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-15 17:48:20.1672 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-15 17:48:20.1842 Info Configuration initialized.
+2022-06-15 17:48:20.1842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-15 17:48:51.3981 Info Message Template Auto Format enabled
+2022-06-15 17:48:51.5724 Info Adding target FileTarget(Name=logfile)
+2022-06-15 17:48:51.5909 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-15 17:48:51.5909 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-15 17:48:51.6566 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-15 17:48:51.6752 Info Configuration initialized.
+2022-06-15 17:48:51.6848 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-06-15 17:49:52.3017 Info AppDomain Shutting down. LogFactory closing...
+2022-06-15 17:49:52.3340 Info LogFactory has been closed.
+2022-06-15 17:49:56.6264 Info Message Template Auto Format enabled
+2022-06-15 17:49:56.8949 Info Adding target FileTarget(Name=logfile)
+2022-06-15 17:49:56.9209 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-06-15 17:49:56.9209 Info Adding target ConsoleTarget(Name=logconsole)
+2022-06-15 17:49:57.0046 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-06-15 17:49:57.0240 Info Configuration initialized.
+2022-06-15 17:49:57.0359 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:17:16.3520 Info Message Template Auto Format enabled
+2022-07-18 14:17:16.5873 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:17:16.6064 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:17:16.6064 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:17:16.6807 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:17:16.6985 Info Configuration initialized.
+2022-07-18 14:17:16.7461 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:17:46.4266 Info Message Template Auto Format enabled
+2022-07-18 14:17:46.7086 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:17:46.7266 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:17:46.7266 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:17:46.7950 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:17:46.8139 Info Configuration initialized.
+2022-07-18 14:17:46.8295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:20:38.9037 Info Message Template Auto Format enabled
+2022-07-18 14:20:39.1050 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:20:39.1240 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:20:39.1240 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:20:39.2069 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:20:39.2253 Info Configuration initialized.
+2022-07-18 14:20:39.2377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:21:06.9652 Info Message Template Auto Format enabled
+2022-07-18 14:21:07.1650 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:21:07.1843 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:21:07.1843 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:21:07.2567 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:21:07.2771 Info Configuration initialized.
+2022-07-18 14:21:07.2875 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:41:45.4142 Info Message Template Auto Format enabled
+2022-07-18 14:41:46.1469 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:41:46.1662 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:41:46.1662 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:41:46.3085 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:41:46.3263 Info Configuration initialized.
+2022-07-18 14:41:46.4506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:48:13.7374 Info Message Template Auto Format enabled
+2022-07-18 14:48:13.9421 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:48:13.9610 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:48:13.9610 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:48:14.0274 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:48:14.0461 Info Configuration initialized.
+2022-07-18 14:48:14.0594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:51:24.0745 Info Message Template Auto Format enabled
+2022-07-18 14:51:24.2911 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:51:24.3186 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:51:24.3186 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:51:24.4006 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:51:24.4220 Info Configuration initialized.
+2022-07-18 14:51:24.4335 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:54:48.2528 Info Message Template Auto Format enabled
+2022-07-18 14:54:48.4999 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:54:48.5207 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:54:48.5214 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:54:48.5993 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:54:48.6214 Info Configuration initialized.
+2022-07-18 14:54:48.6331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:54:53.8581 Info AppDomain Shutting down. LogFactory closing...
+2022-07-18 14:54:53.8895 Info LogFactory has been closed.
+2022-07-18 14:55:20.8343 Info Message Template Auto Format enabled
+2022-07-18 14:55:21.0523 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:55:21.0795 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:55:21.0795 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:55:21.2078 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:55:21.2447 Info Configuration initialized.
+2022-07-18 14:55:21.3212 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:56:13.4875 Info Message Template Auto Format enabled
+2022-07-18 14:56:13.7277 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:56:13.7469 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:56:13.7469 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:56:13.8139 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:56:13.8312 Info Configuration initialized.
+2022-07-18 14:56:13.8405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 14:56:44.5068 Info AppDomain Shutting down. LogFactory closing...
+2022-07-18 14:56:44.5361 Info LogFactory has been closed.
+2022-07-18 14:56:53.0975 Info Message Template Auto Format enabled
+2022-07-18 14:56:53.3011 Info Adding target FileTarget(Name=logfile)
+2022-07-18 14:56:53.3238 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 14:56:53.3238 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 14:56:53.4008 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 14:56:53.4185 Info Configuration initialized.
+2022-07-18 14:56:53.4282 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:02:22.1893 Info Message Template Auto Format enabled
+2022-07-18 15:02:22.3814 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:02:22.4027 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:02:22.4027 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:02:22.4752 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:02:22.4946 Info Configuration initialized.
+2022-07-18 15:02:22.4946 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:03:14.7825 Info Message Template Auto Format enabled
+2022-07-18 15:03:15.0059 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:03:15.0285 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:03:15.0285 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:03:15.1002 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:03:15.1178 Info Configuration initialized.
+2022-07-18 15:03:15.1178 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:05:30.6044 Info Message Template Auto Format enabled
+2022-07-18 15:05:30.8223 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:05:30.8424 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:05:30.8424 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:05:30.9322 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:05:30.9507 Info Configuration initialized.
+2022-07-18 15:05:30.9639 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:10:51.4390 Info Message Template Auto Format enabled
+2022-07-18 15:10:51.6442 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:10:51.6655 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:10:51.6655 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:10:51.7260 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:10:51.7432 Info Configuration initialized.
+2022-07-18 15:10:51.7534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:13:51.2350 Info Message Template Auto Format enabled
+2022-07-18 15:13:51.4180 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:13:51.4369 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:13:51.4369 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:13:51.5034 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:13:51.5211 Info Configuration initialized.
+2022-07-18 15:13:51.5314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:14:14.0506 Info AppDomain Shutting down. LogFactory closing...
+2022-07-18 15:14:15.5814 Warn Flush completed with errors Exception: System.TimeoutException: Timeout when flushing all targets, after waiting 1.5 seconds.
+2022-07-18 15:14:15.5814 Warn Target flush timeout. One or more targets did not complete flush operation, skipping target close.
+2022-07-18 15:14:15.5814 Info LogFactory has been closed.
+2022-07-18 15:14:32.4154 Info Message Template Auto Format enabled
+2022-07-18 15:14:32.6174 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:14:32.6355 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:14:32.6361 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:14:32.7052 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:14:32.7232 Info Configuration initialized.
+2022-07-18 15:14:32.7415 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:16:09.0887 Info AppDomain Shutting down. LogFactory closing...
+2022-07-18 15:16:10.5990 Warn Flush completed with errors Exception: System.TimeoutException: Timeout when flushing all targets, after waiting 1.5 seconds.
+2022-07-18 15:16:10.5990 Warn Target flush timeout. One or more targets did not complete flush operation, skipping target close.
+2022-07-18 15:16:10.5990 Info LogFactory has been closed.
+2022-07-18 15:17:36.2185 Info Message Template Auto Format enabled
+2022-07-18 15:17:36.4273 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:17:36.4475 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:17:36.4475 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:17:36.5137 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:17:36.5327 Info Configuration initialized.
+2022-07-18 15:17:36.5440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:17:57.3809 Info Message Template Auto Format enabled
+2022-07-18 15:17:57.5948 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:17:57.6152 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:17:57.6152 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:17:57.6811 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:17:57.6986 Info Configuration initialized.
+2022-07-18 15:17:57.6986 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 15:58:59.9635 Info Message Template Auto Format enabled
+2022-07-18 15:59:00.1486 Info Adding target FileTarget(Name=logfile)
+2022-07-18 15:59:00.1682 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 15:59:00.1682 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 15:59:00.2629 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 15:59:00.2800 Info Configuration initialized.
+2022-07-18 15:59:00.2905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 16:08:33.6187 Info Message Template Auto Format enabled
+2022-07-18 16:08:33.8111 Info Adding target FileTarget(Name=logfile)
+2022-07-18 16:08:33.8465 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 16:08:33.8465 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 16:08:33.9667 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 16:08:33.9858 Info Configuration initialized.
+2022-07-18 16:08:33.9991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 16:09:09.7868 Info Message Template Auto Format enabled
+2022-07-18 16:09:10.0386 Info Adding target FileTarget(Name=logfile)
+2022-07-18 16:09:10.0846 Info Adding target FileTarget(Name=exceptionlogfile)
+2022-07-18 16:09:10.0846 Info Adding target ConsoleTarget(Name=logconsole)
+2022-07-18 16:09:10.2333 Info Validating config: TargetNames=logfile, logconsole, exceptionlogfile, ConfigItems=50, FilePath=C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore_Redis\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\NLog.config
+2022-07-18 16:09:10.2763 Info Configuration initialized.
+2022-07-18 16:09:10.2875 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.0.1032. Product version: 5.0.0+2e132d979024a14ffe7c91aa3615f720b8ba6be1. GlobalAssemblyCache: False
+2022-07-18 16:21:53.2112 Info AppDomain Shutting down. LogFactory closing...
+2022-07-18 16:21:53.2349 Info LogFactory has been closed.
