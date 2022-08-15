@@ -1,0 +1,16 @@
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\appsettings.json
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\nlog.config
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.exe
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.deps.json
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.runtimeconfig.json
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.runtimeconfig.dev.json
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.dll
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.csprojAssemblyReference.cache
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.csproj.CoreCompileInputs.cache
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.AssemblyInfoInputs.cache
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.AssemblyInfo.cs
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\bin\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.pdb
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.dll
+C:\Users\dalvintengyb\source\repos\FutChartTransporter_DotCore\FutChartTransporter_DotCore\obj\Debug\netcoreapp2.1\win7-x64\FutChartTransporter_DotCore.pdb
